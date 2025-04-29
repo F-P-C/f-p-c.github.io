@@ -107,13 +107,16 @@ header {
 .logo {
     font-size: 1.5rem;
     font-weight: 600;
-    color: var(--primary);
+    overflow: hidden;
+    margin-left:50px;
+    margin-right:50px;
+    display: inline-block;
+    color: var(--accent);
+    min-width: 240px;
 }
 
 .logo span {
-    display: inline-flex;
-    color: var(--accent);
-    min-width: 240px;
+
 }
 
 .nav-menu {
@@ -190,7 +193,6 @@ header {
     flex-direction: column;
     justify-content: center;
     color: white;
-    padding: 0px;
     max-width: 1900px;
 }
 
