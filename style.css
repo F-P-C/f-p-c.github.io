@@ -110,7 +110,7 @@ header {
     overflow: hidden;
     margin-left:50px;
     margin-right:50px;
-    display: inline-block;
+    display: flex;
     color: var(--accent);
     min-width: 240px;
 }
