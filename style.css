@@ -108,8 +108,8 @@ header {
     font-size: 1.5rem;
     font-weight: 600;
     overflow: hidden;
-    margin-left:50px;
-    margin-right:50px;
+    margin-left:45px;
+    margin-right:45px;
     display: flex;
     color: var(--accent);
     min-width: 240px;
