@@ -104,10 +104,10 @@ header {
     padding: 15px 0;
 }
 
-.logo {
+.company-name {
     font-size: 1.5rem;
     font-weight: 600;
-    overflow: hidden;
+    overflow:visible;
     margin-left:45px;
     margin-right:45px;
     display: flex;
